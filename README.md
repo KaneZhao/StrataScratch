@@ -1,0 +1,2 @@
+# StrataScratch
+Daily stratascratch
