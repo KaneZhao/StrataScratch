@@ -1,2 +1,2 @@
 # StrataScratch
-Daily stratascratch
+Daily Stratascratch
